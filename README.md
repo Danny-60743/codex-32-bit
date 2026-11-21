@@ -4,7 +4,7 @@ An unofficial community build of OpenAI Codex CLI for 32-bit ARMv7 Termux on And
 
 ## Download and install
 
-In Termux, download the archive from the [v0.169.0 ARMv7 release](https://github.com/Danny-60743/codex-32-bit/releases/tag/v0.169.0-android-armv7), then run:
+In your terminal, download the archive from the [v0.169.0 ARMv7 release](https://github.com/Danny-60743/codex-32-bit/releases/tag/v0.169.0-android-armv7), then run:
 
 ```sh
 curl -L -o codex-0.169.0-android-armv7.tar.gz \
